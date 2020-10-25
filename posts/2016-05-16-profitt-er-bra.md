@@ -9,7 +9,7 @@ en grunnleggende forståelse av hvordan markeder fungerer.
 Sannheten er at både profitt og tap er positivt.
 
 **Les også:**
-[Tilbud og etterspørsel]({% post_url 2016-04-10-tilbud-og-ettersporsel %})
+[Tilbud og etterspørsel](/tilbud-og-ettersporsel)
 
 Mange naive observatører av markedsøkonomien avfeier **bunnlinja**
 som en tilfeldig sosial konstruksjon. De kan si ting som:
@@ -177,4 +177,4 @@ Hvis arbeidere fortjener all profitt fortjener de vel også all tap? Noen må ih
 dekke tapet.
 
 **Les også:**
-[Arbeidsinndeling og spesialisering]({% post_url 2016-04-09-arbeidsinndeling-og-spesialisering %})
+[Arbeidsinndeling og spesialisering](/arbeidsinndeling-og-spesialisering)

@@ -8,7 +8,7 @@ Disse handlingene inkluderer å være observant på profittmuligheter, reorganis
 vedlikeholde ressurser og å fullføre prosjekter til sin slutt.
 
 **Les også:**
-[Entreprenørskap og konkurranse]({% post_url 2016-04-10-entreprenorskap-og-konkurranse %}).
+[Entreprenørskap og konkurranse](/entreprenorskap-og-konkurranse).
 
 Entreprenører er heroiske karakterer i en økonomi fordi de tar **risikoen**
 som er involvert i å introdusere nye varer og tjenester til sluttbrukere.
@@ -27,4 +27,4 @@ må finnes ekte mennesker som **tør** å ta risikoen.
 En honnør til alle entreprenører!
 
 **Les også:**
-[Profitt er positivt for en markedsøkonomi]({% post_url 2016-05-16-profitt-er-bra %}).
+[Profitt er positivt for en markedsøkonomi](/profitt-er-bra).

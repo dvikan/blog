@@ -9,7 +9,7 @@ eier du 5% av Nintendo. Aksjeeiere har krav på eiendeler og inntekter
 til bedriften.
 
 **Les også:**
-[Profitt er positivt for en markedsøkonomi]({% post_url 2016-05-16-profitt-er-bra %})
+[Profitt er positivt for en markedsøkonomi](/profitt-er-bra)
 
 Kjøp og salg av aksjer skjer på en børs som for eksempel
 New York Stock Exchange. Med ny teknologi og automatisering
@@ -26,7 +26,7 @@ ved å bli **børsnotert** (IPO). Ved en børsnotering opprettes det et
 visst antall aksjer som selges til utenforstående.
 
 **Les også:**
-[Entreprenørskap og konkurranse]({% post_url 2016-04-10-entreprenorskap-og-konkurranse %})
+[Entreprenørskap og konkurranse](/entreprenorskap-og-konkurranse)
 
 En eksisterende bedrift kan også skaffe kapital ved å opprette
 nye aksjer (**aksjeemisjon**) og selge disse.
@@ -112,4 +112,4 @@ sluses inn i de mer verdifulle bedriftene. Slik vil suksessfulle bedrifter
 få inn mer kapital ved aksjeemisjon.
 
 **Les også:**
-[Hvorfor handler folk med hverandre?]({% post_url 2016-04-09-hvorfor-handler-folk-med-hverandre %})
+[Hvorfor handler folk med hverandre?](/hvorfor-handler-folk-med-hverandre)

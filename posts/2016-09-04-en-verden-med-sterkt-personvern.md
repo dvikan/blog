@@ -11,7 +11,7 @@ Det klassiske problemet er: *hvordan kommunisere med en person uten at
 andre får tak i innholdet?*
 
 **Les også:**
-[Piratkopiering vil snart bli verdiløst]({% post_url 2016-05-09-piratkopiering %}).
+[Piratkopiering vil snart bli verdiløst](/piratkopiering).
 
 Mye av vår kommunikasjonen skjer nå over kobberledninger, fiberoptikk
 og radio. Enhver node langs linken fra A til B kan avlytte innholdet.
@@ -132,5 +132,5 @@ Det er uansett svært vanskelig å stoppe utviklingen på grunn av konkurranse m
 land.
 
 **Les også:**
-[Bitcoin er penger]({% post_url 2016-01-22-bitcoin-er-penger %}).
+[Bitcoin er penger](/bitcoin-er-penger).
 

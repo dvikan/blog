@@ -5,7 +5,7 @@
 En pengeøkonomi muliggjør **arbeidsinndeling**. Som betyr at folk spesialiserer
 seg i produksjon av varer.
 
-**Les også:** [Bitcoin er penger]({% post_url 2016-01-22-bitcoin-er-penger %})
+**Les også:** [Bitcoin er penger](/bitcoin-er-penger)
 
 I fravær av penger blir folk i stor grad selvforsynt og må produsere
 alt de trenger selv. Da må du gro din egen mat, sy dine egne klær, 
@@ -50,4 +50,4 @@ reparering av tenner.
 Et rikt og produktivt land som USA nyter godt av å handle med folk i
 u-land, selv om arbeiderene skulle være mindre produktiv på alle områder.
 
-**Les også:** [Hvorfor handler folk med hverandre?]({% post_url 2016-04-09-hvorfor-handler-folk-med-hverandre %})
+**Les også:** [Hvorfor handler folk med hverandre?](/hvorfor-handler-folk-med-hverandre)

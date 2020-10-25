@@ -7,7 +7,7 @@ en hypotese bevist med empirisk undersøkelse. Det vil aldri komme beviser
 som demonstrerer at tilbud og etterspørsel er på noen måte usant.
 
 **Les også:**
-[Entreprenørskap og konkurranse]({% post_url 2016-04-10-entreprenorskap-og-konkurranse %})
+[Entreprenørskap og konkurranse](/entreprenorskap-og-konkurranse)
 
 Noe som kan skje i framtiden er at økonomer finner bedre **verktøy** til å 
 forklare priser.
@@ -122,4 +122,4 @@ kjøpe flere enheter av varen enn det han har tilgjengelig.
 Krysningen mellom tilbud og etterspørsel er **likevektspunktet**.
 
 **Les også:**
-[Hvorfor handler folk med hverandre?]({% post_url 2016-04-09-hvorfor-handler-folk-med-hverandre %})
+[Hvorfor handler folk med hverandre?](/hvorfor-handler-folk-med-hverandre)

@@ -15,7 +15,7 @@ Hanne kommer på skolen med et eple. Det ville ikke vært
 merkelig om Tina fortrekker et eple over en appelsin
 og at Hanne foretrekker en appelsin over et eple.
 
-**Les også:** [Økonomi forklart uten bruk av vanskelig ord]({% post_url 2016-03-26-okonomi-forklart-uten-bruk-av-vanskelig-ord %})
+**Les også:** [Økonomi forklart uten bruk av vanskelig ord](/okonomi-forklart-uten-bruk-av-vanskelig-ord)
 
 Hvis Tina og Hanne skulle bli klar over deres respektive preferanser
 kunne de begge to blitt lykkeligere ved å handle med hverandre!
@@ -35,7 +35,7 @@ kan folk oppnå flere av sine mål.
 For å forstå handel med penger må du først forstå **direkte byttehandel**.
 Dette er handel i fravær av **penger**.
 
-**Les også:** [Du vet ikke hvem som oppfant penger]({% post_url 2016-01-24-du-vet-ikke-hvem-som-oppfant-penger %})
+**Les også:** [Du vet ikke hvem som oppfant penger](/du-vet-ikke-hvem-som-oppfant-penger)
 
 I en direkte byttehandel har begge parter direkte bruk for tingen de
 bytter til seg. I historien om Tina og Hanne gjorde de en direkte
@@ -134,4 +134,4 @@ Historisk har mye forskjellig vært brukt som penger:
 
 Gratulerer! Du er en av få som tar deg tida til å lese helt til bunnen.
 Et behagelig sprang videre nå er å lese 
-[Kapitalisme forklart på norsk]({% post_url 2016-04-03-kapitalisme %}).
+[Kapitalisme forklart på norsk](/kapitalisme).

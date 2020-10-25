@@ -10,7 +10,7 @@ kan få betalt:
 * Ukontrollert tilgang med begrensninger
 
 **Les også:**
-[Tilbud og etterspørsel]({% post_url 2016-04-10-tilbud-og-ettersporsel %})
+[Tilbud og etterspørsel](/tilbud-og-ettersporsel)
 
 Kopirett lover er et eksempel av det første. **Betalingsmur** er et eksempel på
 det andre. Annonseinntekter fra radio og websider er et eksempel på det tredje.
@@ -55,4 +55,4 @@ Med økende regnekraft vil det forøvrig bli enklere og erstatte skuespillere
 med dataanimerte figurer. Som vil redusere produksjonskostnadene med filmproduksjon.
 
 **Les også:**
-[Hvorfor handler folk med hverandre?]({% post_url 2016-04-09-hvorfor-handler-folk-med-hverandre %})
+[Hvorfor handler folk med hverandre?](/hvorfor-handler-folk-med-hverandre)

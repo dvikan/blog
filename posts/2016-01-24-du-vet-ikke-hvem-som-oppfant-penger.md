@@ -5,7 +5,7 @@
 Ingen person oppfant penger. Penger er en teknologi som har oppstått **spontant** på markedet.
 I likhet med språk.
 
-**Les også:** [Bitcoin er penger]({% post_url 2016-01-22-bitcoin-er-penger %})
+**Les også:** [Bitcoin er penger](/bitcoin-er-penger)
 
 Penger er en merkelig ting. Penger er overalt. Du går i butikken og møter fremmede
 mennesker som gir deg mat. Penger blir utvekslet. Hver dag går vi rundt og bytter penger mot varer og tjenester.
@@ -27,7 +27,7 @@ Den økonomiske tilstanden var veldig primitiv. Mat, klær og husly måtte lages
 De hadde kort forventet levealder. Stammer av folk døde ut regelmessig. På grunn av hungernød.
 Etterhvert begynte folk og handle med hverandre. De hadde ikke penger. Men de kunne bytte vare mot vare.
 
-I en direkte byttehandel kreves [dobbelt sammentreff av behov]({% post_url 2016-01-20-gaa-ikke-glipp-av-gjensidig-gevinst %}).
+I en direkte byttehandel kreves [dobbelt sammentreff av behov](/gaa-ikke-glipp-av-gjensidig-gevinst).
 
 Blomsterselger Arne vil kjøpe en kniv. Men knivselgeren vil ikke ha blomster. Handel finner ikke sted.
 Oppdagelsen av dobbelttreff av behov er sjelden og kostbar.

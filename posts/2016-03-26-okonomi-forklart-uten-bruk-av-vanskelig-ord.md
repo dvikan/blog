@@ -5,7 +5,7 @@
 Før vi kan analysere en markedsøkonomi med milliarder av mennesker, bør vi starte
 med _én_ person. Og forstå hva som får _han_ til å tikke.
 
-**Les også:** [5 aksiomer om menneskelig handling]({% post_url 2016-02-16-5-aksiomer-for-menneskelig-handling %})
+**Les også:** [5 aksiomer om menneskelig handling](/aksiomer-for-menneskelig-handling)
 
 _Robinson Crusoe_ er en kjent novelle av Daniel Defoe. Den omhandler en person
 som er strandet på en øde øy. Moderne lesere identifiserer kanskje mer
@@ -85,7 +85,7 @@ fiskenett og spyd.
 Slik fortsetter det i en evig sirkel med inntekt, sparing og investering.
 Slik skapes velstand.
 
-**Les også:** [Du vet ikke hvem som oppfant penger]({% post_url 2016-01-24-du-vet-ikke-hvem-som-oppfant-penger %})
+**Les også:** [Du vet ikke hvem som oppfant penger](/du-vet-ikke-hvem-som-oppfant-penger)
 
 ## Marginal nytte
 
@@ -102,4 +102,4 @@ et valg er det nest beste målet som ikke nås. På engelsk brukes uttrykket **o
 
 
 Nå har du en bedre forståelse av en en-manns økonomi. Din neste oppgave er å
-[ikke gå glipp av gjensidig gevinst]({% post_url 2016-01-20-gaa-ikke-glipp-av-gjensidig-gevinst %}).
+[ikke gå glipp av gjensidig gevinst](/gaa-ikke-glipp-av-gjensidig-gevinst).

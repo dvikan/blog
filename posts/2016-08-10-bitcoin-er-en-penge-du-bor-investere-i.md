@@ -7,7 +7,7 @@ opp over tid.
 
 Det er forskjell på **investering** og **spekulering**. Jeg har nylig skrevet
 om hvorfor
-[aksjespekulering har en nyttig sosial funksjon]({% post_url 2016-07-30-aksjespekulering-har-en-nyttig-sosial-funksjon %}).
+[aksjespekulering har en nyttig sosial funksjon](/aksjespekulering-har-en-nyttig-sosial-funksjon).
 
 Spekulering er kjøp/salg av en vare du mistenker snart vil oppleve økning eller fall i pris.
 Investering er kjøp av varer som du har tenkt å sitte på i lang tid. Gjerne årevis.
@@ -16,7 +16,7 @@ Prisen på bitcoin bestemmes av selger. Slik bestemmes alle priser på markedet.
 seg for å selge og setter dermed sin salgspris.
 
 **Les også:**
-[Tilbud og etterspørsel]({% post_url 2016-04-10-tilbud-og-ettersporsel %})
+[Tilbud og etterspørsel](/tilbud-og-ettersporsel)
 
 Det er en lang kjede av årsaker som forårsaker **prisendringer**. Mer generelt pleier man å si
 at priser bestemmes av tilbud og etterspørsel. Dersom det kommer en storm av folk som vil kjøpe
@@ -68,4 +68,4 @@ BTC vil oppleve økt etterspørsel og da vil pris øke. BTC er en bedre penge og
 for statsmakten.
 
 **Les også:**
-[Bitcoin er penger]({% post_url 2016-01-22-bitcoin-er-penger %})
+[Bitcoin er penger](/bitcoin-er-penger)

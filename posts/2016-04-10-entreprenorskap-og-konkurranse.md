@@ -10,7 +10,7 @@ Entreprenøren bruker sine egne eller lånte penger fra **kapitalister**
 til å ansette arbeidere, leie kontor, kjøpe strøm og varme, kjøpe utstyr og råvarer.
 
 **Les også:**
-[Arbeidsinndeling og spesialisering]({% post_url 2016-04-09-arbeidsinndeling-og-spesialisering %})
+[Arbeidsinndeling og spesialisering](/arbeidsinndeling-og-spesialisering)
 
 Entreprenøren gir så instruksjoner til sine arbeidere om hvordan
 **produksjonen** skal utføres. Varene eller tjenestene blir deretter
@@ -81,4 +81,4 @@ Denne kalkuleringen
 setter et øvre tak på hvor mye lønn arbeidsgiveren kan tilby.
 
 **Les også:**
-[Hvorfor handler folk med hverandre?]({% post_url 2016-04-09-hvorfor-handler-folk-med-hverandre %})
+[Hvorfor handler folk med hverandre?](/hvorfor-handler-folk-med-hverandre)
