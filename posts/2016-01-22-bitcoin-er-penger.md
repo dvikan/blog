@@ -13,7 +13,7 @@ spesielt sant når det gjelder å forstå vår økonomi.
 
 Dette tankeverktøyet var hensikten med *Crusoe Economics*.
 
-![Robinson Crusoe]({{ site.url }}/blogimages/crusoe.jpg)
+![Robinson Crusoe](/blogimages/crusoe.jpg)
 
 Robinson Crusoe og Friday var to personer strandet på en øde øy.
 Analyse av Crusoe og Friday på en øde øy er et nyttig verktøy
@@ -69,7 +69,7 @@ En moderne økonomi er umulig med direkte byttehandel.
 
 ## Indirekte byttehandel
 
-![Gull penger]({{ site.url }}/blogimages/money-1239410.jpg)
+![Gull penger](/blogimages/money-1239410.jpg)
 
 I indirekte byttehandel bytter du din vare eller tjeneste ikke for noe du direkte kan
 konsumere, men for noe annet som du igjen kan selge for å få den varen du egentlig vil ha.

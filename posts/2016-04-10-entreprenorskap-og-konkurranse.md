@@ -1,6 +1,6 @@
 {"title": "Entreprenørskap og konkurranse"}
 
-![Laptop]({{ site.url }}/blogimages/laptop.jpg)
+![Laptop](/blogimages/laptop.jpg)
 
 **Entreprenøren** er drivkraften i en markedsøkonomi. Det er entreprenøren
 som vurderer om det er noe som mangler i markedet og bestemmer
@@ -31,7 +31,7 @@ Entreprenører driver markedsøkonomien. Konkurranse regulerer og motiverer dem.
 Konkurranse sørger for at entreprenøren konstant prøver å levere
 varer og tjenester til den kvaliteten kundene vil ha, til lavest pris.
 
-![Competition]({{ site.url }}/blogimages/competition.jpg)
+![Competition](/blogimages/competition.jpg)
 
 Den kompetative prosessen foregår i form av **imitering** og **innovasjon**.
 

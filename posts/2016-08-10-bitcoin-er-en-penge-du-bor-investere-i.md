@@ -1,6 +1,6 @@
 {"title": "Bitcoin er en penge du bør investere i"}
 
-![Bitcoin]({{ site.url }}/blogimages/bitcoin.jpg)
+![Bitcoin](/blogimages/bitcoin.jpg)
 
 Du bør investere i **bitcoin** (BTC) fordi jeg er ganske sikker på at prisen på BTC vil gå
 opp over tid.

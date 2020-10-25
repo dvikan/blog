@@ -55,8 +55,8 @@ For theming bør CSS-reglene subclasses med f.eks:
 
 ## Eksklusive screenshots
 
-![]({{ site.url }}/blogimages/css-meny1.png)
-![]({{ site.url }}/blogimages/css-meny2.png)
+![](/blogimages/css-meny1.png)
+![](/blogimages/css-meny2.png)
 
 ## Demo
 

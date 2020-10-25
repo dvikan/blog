@@ -6,7 +6,7 @@ leakage (e.g. in logs) and because users reuse passwords.
 
 ## Why hash in the first place?
 
-![]({{ site.url }}/blogimages/whyunohash.jpg)
+![](/blogimages/whyunohash.jpg)
 
 We do it to reduce the chance 
 that passwords get stolen at rest. The classic example is a database leak.

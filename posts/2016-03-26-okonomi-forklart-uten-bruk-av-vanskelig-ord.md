@@ -1,6 +1,6 @@
 {"title": "Økonomi forklart uten bruk av vanskelig ord"}
 
-![En øde øy]({{ site.url }}/blogimages/island.jpg)
+![En øde øy](/blogimages/island.jpg)
 
 Før vi kan analysere en markedsøkonomi med milliarder av mennesker, bør vi starte
 med _én_ person. Og forstå hva som får _han_ til å tikke.
@@ -11,7 +11,7 @@ _Robinson Crusoe_ er en kjent novelle av Daniel Defoe. Den omhandler en person
 som er strandet på en øde øy. Moderne lesere identifiserer kanskje mer
 med Tom Hank's karakter i _Cast Away (2000)_.
 
-![Tom Hanks]({{ site.url }}/blogimages/cast_away-tom-hanks.jpg)
+![Tom Hanks](/blogimages/cast_away-tom-hanks.jpg)
 
 ## Alene på en øde øy
 

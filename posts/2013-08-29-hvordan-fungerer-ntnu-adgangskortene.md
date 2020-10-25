@@ -1,7 +1,7 @@
 {"title": "Hvordan fungerer NTNU adgangskortene"}
 
-![ntnu kortet]({{ site.url }}/blogimages/ntnu-card-front.png)
-![ntnu kortet]({{ site.url }}/blogimages/ntnu-card-back.png)
+![ntnu kortet](/blogimages/ntnu-card-front.png)
+![ntnu kortet](/blogimages/ntnu-card-back.png)
 
 ## Kortnummer og strekkode
 
@@ -65,8 +65,8 @@ Dører bruker 125 KHz brikke id + fire siffer pin. Adgangssystemet til dører he
 
 ## Oppdatering 2014
 
-![ntnu kortet]({{ site.url }}/blogimages/ntnu-card-front-2014.jpg)
-![ntnu kortet]({{ site.url }}/blogimages/ntnu-card-back-2014.jpg)
+![ntnu kortet](/blogimages/ntnu-card-front-2014.jpg)
+![ntnu kortet](/blogimages/ntnu-card-back-2014.jpg)
 
 Jeg fikk et nytt kort fordi mitt gamle sluttet å fungere.
 

@@ -1,6 +1,6 @@
 {"title": "En verden med sterkt personvern"}
 
-![Binary woman]({{ site.url }}/blogimages/binary.jpg)
+![Binary woman](/blogimages/binary.jpg)
 
 Forbedret teknologi for overvåking og dataprosessering truer vår
 mulighet til å regulere andre folk sin tilgang på informasjon om oss.

@@ -1,6 +1,6 @@
 {"title": "Effektene av statlig pristak"}
 
-![Roofs]({{ site.url }}/blogimages/roofs.jpg)
+![Roofs](/blogimages/roofs.jpg)
 
 Det er svært sannsynlig at statlig inngripen i markedsøkonomien vil føre
 til utilsiktede konsekvenser der kuren er verre enn sykdommen.
@@ -29,7 +29,7 @@ blir kvantitet etterspurt større enn kvantitet tilbudt.
 Grafen under viser de velkjente etterspørsel og tilbudskurvene med et
 pristak på 650 USD.
 
-![Hybelknapphet]({{ site.url }}/blogimages/housing-shortage.png)
+![Hybelknapphet](/blogimages/housing-shortage.png)
 
 De økonomiske lovene om tilbud og etterspørsel forteller oss at
 lavere pris fører til flere enheter etterspurt og færre enheter tilbudt.

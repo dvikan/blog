@@ -1,6 +1,6 @@
 {"title": "Du vet ikke hvem som oppfant penger"}
 
-![Bunke med euro]({{ site.url }}/blogimages/euro.jpg)
+![Bunke med euro](/blogimages/euro.jpg)
 
 Ingen person oppfant penger. Penger er en teknologi som har oppstått **spontant** på markedet.
 I likhet med språk.

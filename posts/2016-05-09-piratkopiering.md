@@ -1,6 +1,6 @@
 {"title": "Piratkopiering vil snart bli verdiløst"}
 
-![ai]({{ site.url }}/blogimages/ai.jpg)
+![ai](/blogimages/ai.jpg)
 
 Det fins minst tre måter en forfatter av **intellektuell eiendom** (IP)
 kan få betalt:

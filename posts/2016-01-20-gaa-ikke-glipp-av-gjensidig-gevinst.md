@@ -1,6 +1,6 @@
 {"title": "Gå ikke glipp av gjensidig gevinst"}
 
-![Bunt med penger]({{ site.url }}/blogimages/coins.jpg)
+![Bunt med penger](/blogimages/coins.jpg)
 
 En gang for lenge siden, eksisterte ikke penger.
 

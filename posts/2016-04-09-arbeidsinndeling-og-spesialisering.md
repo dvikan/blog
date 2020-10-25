@@ -1,6 +1,6 @@
 {"title": "Arbeidsinndeling og spesialisering"}
 
-![Workers on poles]({{ site.url }}/blogimages/workers.jpg)
+![Workers on poles](/blogimages/workers.jpg)
 
 En pengeøkonomi muliggjør **arbeidsinndeling**. Som betyr at folk spesialiserer
 seg i produksjon av varer.
@@ -41,7 +41,7 @@ feltet der overlegenheten er **relativt** størst.
 Prinsippet om komparative fortrinn ble tradisjonelt brukt til å illustrere
 fordelen med **frihandel** mellom nasjoner.
 
-![Handsome dentist]({{ site.url }}/blogimages/dentist.jpg)
+![Handsome dentist](/blogimages/dentist.jpg)
 
 For eksempel: tannlegen Gaute er en bedre rengjører enn Nils. Han bør likevel
 ansette Nils slik at han kan bruke all sin tid på sitt komparative fortrinn:

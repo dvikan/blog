@@ -1,6 +1,6 @@
 {"title": "Aksjespekulering har en nyttig sosial funksjon"}
 
-![Stock graph]({{ site.url }}/blogimages/stock-graph.jpg)
+![Stock graph](/blogimages/stock-graph.jpg)
 
 En **aksjebørs** er en markedsplass hvor det handles aksjer. **Aksjer**
 er fraksjoner av eierskap til en bedrift.

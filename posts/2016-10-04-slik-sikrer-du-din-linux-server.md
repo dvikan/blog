@@ -1,6 +1,6 @@
 {"title": "Slik sikrer du din Linux-server"}
 
-![Penguin]({{ site.url }}/blogimages/penguin.png)
+![Penguin](/blogimages/penguin.png)
 
 Du vil unngå at din Linux-server blir brutt inn i.
 

@@ -1,6 +1,6 @@
 {"title": "Nettbank sikkerhetstest 2016 (HSTS)"}
 
-![Rusty padlock]({{ site.url }}/blogimages/padlock.jpg)
+![Rusty padlock](/blogimages/padlock.jpg)
 
 Formålet med denne testen er å undersøke hvilke nettbanker som
 benytter seg av sikkerhetsmekanismen

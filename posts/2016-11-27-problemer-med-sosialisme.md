@@ -1,6 +1,6 @@
 {"title": "Problemer med sosialisme"}
 
-![Toilet]({{ site.url }}/blogimages/toilet.jpg)
+![Toilet](/blogimages/toilet.jpg)
 
 **Sosialisme** er en ren kommandoøkonomi som innebærer planøkonomi.
 I sosialismen er alle varer eid av staten og all

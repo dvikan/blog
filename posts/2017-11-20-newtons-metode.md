@@ -1,6 +1,6 @@
 {"title": "Finn kvadratrot med Newton's metode"}
 
-![]({{ blog.siteurl }}/blogimages/isac-newton.jpg)
+![](/blogimages/isac-newton.jpg)
 
 Hvordan beregne kvadratrota av tall? For eksempel er `7`
 kvadratrota til `49`. Det fins ingen åpenbar måte å regne seg

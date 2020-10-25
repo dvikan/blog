@@ -1,6 +1,6 @@
 {"title": "Meditations (Marcus Aurelius)"}
 
-![]({{ blog.siteurl }}/blogimages/meditations.jpg)
+![](/blogimages/meditations.jpg)
 
 Jeg har lest *Meditations* av Marcus Aurelius, oversatt av Gregory Hays.
 

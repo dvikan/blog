@@ -23,7 +23,7 @@ Etterspørsel er ikke et tall men en relasjon mellom mange tall.
 For å illustrere, la meg vise deg en **etterspørselsplan** for Siri
 som ønsker å kjøpe bensin til bila si.
 
-![En bensinstasjon om natta.]({{ site.url }}/blogimages/gas-station.jpg)
+![En bensinstasjon om natta.](/blogimages/gas-station.jpg)
 
 Planen viser hvor mange liter bensin hun er villig til å kjøpe til de forskjellige
 hypotetiske prisene.
@@ -76,7 +76,7 @@ Hvis vi tar alle folk sine etterspørselsplaner og plotter dem på en graf får 
 **etterspørselskurve**. Kurva vil ha noen ujevnheter. Med en lineær regresjon får man
 denne kurva:
 
-![Etterspørselskurve]({{ site.url }}/blogimages/demandcurve.png)
+![Etterspørselskurve](/blogimages/demandcurve.png)
 
 Jeg vil stresse at etterspørselskurver gjelder for et konkret tidspunkt i tid.
 Fra person til person kan den derfor endre seg avhengig av ytre faktorer og
@@ -93,7 +93,7 @@ de hypotetiske prisene.
 **Loven om tilbud** sier at hvis andre ting holdes **konstant**, vil høyere
 pris føre til at produsenter selger flere enheter av en vare.
 
-![Tilbudskurve]({{ site.url }}/blogimages/supplycurve.png)
+![Tilbudskurve](/blogimages/supplycurve.png)
 
 ## Forståelse av markedspriser
 
@@ -117,7 +117,7 @@ at han ikke får solgt unna alle sine varer.
 Hvis en produsent priser sin vare under likevekt vil han oppdage at kunder vil
 kjøpe flere enheter av varen enn det han har tilgjengelig.
 
-![Likevekt]({{ site.url }}/blogimages/equilibrium.png)
+![Likevekt](/blogimages/equilibrium.png)
 
 Krysningen mellom tilbud og etterspørsel er **likevektspunktet**.
 

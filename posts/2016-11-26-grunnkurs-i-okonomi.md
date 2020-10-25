@@ -1,6 +1,6 @@
 {"title": "Grunnkurs i økonomi"}
 
-![Bull and bear market]({{ site.url }}/blogimages/bullbear.jpg)
+![Bull and bear market](/blogimages/bullbear.jpg)
 
 Økonomi er studiet av byttehandel. Den røde tråden er **knapphet**.
 Knapphet betyr at det fins en endelig mengde ressurser og at personer

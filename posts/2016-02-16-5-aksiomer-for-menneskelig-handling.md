@@ -1,6 +1,6 @@
 {"title": "5 aksiomer om menneskelig handling"}
 
-![Spock fra star trek]({{ site.url }}/blogimages/spock.jpg)
+![Spock fra star trek](/blogimages/spock.jpg)
 
 Når vi prøver å forstå verden, skiller vi mellom meningsløs og meningsfull oppførsel.
 

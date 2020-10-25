@@ -1,6 +1,6 @@
 {"title": "Hvorfor handler folk med hverandre?"}
 
-![Trade]({{ site.url }}/blogimages/trade.jpg)
+![Trade](/blogimages/trade.jpg)
 
 To folk som frivillig handler med hverandre forventer å **tjene**
 på handelen. Hvordan er dette mulig? Noen kritikere av
@@ -62,7 +62,7 @@ må bytte 100 enheter av NOK og selger må bytte en enhet av DVD-en.
 I fravær av penger forsvinner kategoriseringen av
 hvem som er selger og kjøper.
 
-![Tomater]({{ site.url }}/blogimages/tomatoes.jpg)
+![Tomater](/blogimages/tomatoes.jpg)
 
 For eksempel: når bonden Arne gir 1 KG poteter i bytte mot 100 tomatfrø
 er han samtidig kjøper av tomatfrø og selger av potet. Vi kan si 
@@ -85,7 +85,7 @@ To ting begrenser direkte byttehandel:
 To personer som har en t-skjorte og en kniv må samtidig finne hverandre
 og begge må ønske den andre tingen.
 
-![Frog love]({{ site.url }}/blogimages/love.jpg)
+![Frog love](/blogimages/love.jpg)
 
 **Dating-markedet** er et
 direktehandel marked. Det fins ingen kjærlighetspenger. Du har kanskje selv

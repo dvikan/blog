@@ -1,6 +1,6 @@
 {"title": "Entreprenører er våre helter"}
 
-![Jumping man]({{ site.url }}/blogimages/jump.jpg)
+![Jumping man](/blogimages/jump.jpg)
 
 **Entreprenørskap** kan defineres som handlinger basert på observerte muligheter
 i markedet, i et forsøk på å oppnå **profitt**.

@@ -31,7 +31,7 @@ for recommended server configuration.
 
 ## Tame the browser
 
-![]({{ site.url }}/blogimages/blackhole01.jpg)
+![](/blogimages/blackhole01.jpg)
 
 The browser is like a giant black hole that sucks in all code it can get. And
 executes it. It is a very nice platform for distributing viruses. It must me 

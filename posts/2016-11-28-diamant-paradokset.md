@@ -1,6 +1,6 @@
 {"title": "Diamant paradokset"}
 
-![Diamond]({{ site.url }}/blogimages/diamond.jpg)
+![Diamond](/blogimages/diamond.jpg)
 
 Hvorfor verdsetter mennesker diamanter høyere enn brød
 når brød åpenbart er mer nyttig enn diamanter?
