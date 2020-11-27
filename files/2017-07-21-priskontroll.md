@@ -35,7 +35,9 @@ ville vært, får vi disse ødeleggende effekter:
 
 Når priskontroll tvinger igjennom en minstepris kaller vi det **prisgulv**.
 
-* Redusert kvantitet etterspurt. Økt kvantitet tilbudt. Øyeblikkelig overskudd.
+* Redusert kvantitet etterspurt
+* Økt kvantitet tilbudt
+* Øyeblikkelig overskudd.
 
 ## Oppsummering
 

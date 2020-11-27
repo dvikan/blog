@@ -1,4 +1,4 @@
-{"title": "Prosjekter"}
+{"title": "Prosjekter", "type":"page"}
 
 ## Gamle NTNU-eksamener
 

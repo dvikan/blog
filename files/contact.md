@@ -1,4 +1,4 @@
-{"title": "Kontakt"}
+{"title": "Kontakt", "type":"page"}
 
 ![](/blogimages/me-downscaled.jpg)
 

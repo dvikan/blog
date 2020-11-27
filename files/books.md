@@ -1,4 +1,4 @@
-{"title": "Bøker"}
+{"title": "Bøker", "type": "page"}
 
 ## Økonomi
 

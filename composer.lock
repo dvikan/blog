@@ -1,0 +1,174 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "41f2d802e23a0b479c47db88781a0e49",
+    "packages": [
+        {
+            "name": "dvikan/simple-parts",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dvikan/simple-parts.git",
+                "reference": "6e32fa759e1bd735de41b4a53c3068ad3b4f6b3f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dvikan/simple-parts/zipball/6e32fa759e1bd735de41b4a53c3068ad3b4f6b3f",
+                "reference": "6e32fa759e1bd735de41b4a53c3068ad3b4f6b3f",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-imap": "*",
+                "ext-json": "*",
+                "ext-libxml": "*",
+                "ext-mbstring": "*",
+                "ext-pdo": "*",
+                "ext-simplexml": "*"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "dvikan\\SimpleParts\\": [
+                        "src",
+                        "src/cache",
+                        "src/common",
+                        "src/console",
+                        "src/container",
+                        "src/file",
+                        "src/http",
+                        "src/json",
+                        "src/logger",
+                        "src/migrator",
+                        "src/rss",
+                        "src/session",
+                        "src/shell",
+                        "src/template",
+                        "src/twitch",
+                        "src/yahoo-finance"
+                    ]
+                },
+                "files": [
+                    "src/common/constants.php",
+                    "src/http/functions.php",
+                    "src/session/functions.php",
+                    "src/template/functions.php",
+                    "src/template/functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Simple components for building applications",
+            "support": {
+                "issues": "https://github.com/dvikan/simple-parts/issues",
+                "source": "https://github.com/dvikan/simple-parts/tree/master"
+            },
+            "time": "2020-11-22T21:47:09+00:00"
+        },
+        {
+            "name": "dvikan/simple-static-site-generator",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "../simple-static-site-generator",
+                "reference": "61fa913d53bfd67ac2fd974f4a21fbffb967032b"
+            },
+            "require": {
+                "dvikan/simple-parts": "dev-master",
+                "erusev/parsedown": "^1.7",
+                "ext-json": "*",
+                "ext-mbstring": "*",
+                "ext-simplexml": "*"
+            },
+            "bin": [
+                "generate"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "dvikan\\SimpleStaticSiteGenerator\\": "./"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Dag",
+                    "email": "me@dvikan.no"
+                }
+            ],
+            "description": "A simple library for generating html files from markdown files",
+            "transport-options": {
+                "relative": true
+            }
+        },
+        {
+            "name": "erusev/parsedown",
+            "version": "1.8.0-beta-7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown.git",
+                "reference": "fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955",
+                "reference": "fe7a50eceb4a3c867cc9fa9c0aa906b1067d1955",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8.35"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Parsedown": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "http://erusev.com"
+                }
+            ],
+            "description": "Parser for Markdown.",
+            "homepage": "http://parsedown.org",
+            "keywords": [
+                "markdown",
+                "parser"
+            ],
+            "support": {
+                "issues": "https://github.com/erusev/parsedown/issues",
+                "source": "https://github.com/erusev/parsedown/tree/1.8.0-beta-7"
+            },
+            "time": "2019-03-17T18:47:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "dvikan/simple-static-site-generator": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
