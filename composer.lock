@@ -77,7 +77,7 @@
             "dist": {
                 "type": "path",
                 "url": "../simple-static-site-generator",
-                "reference": "61fa913d53bfd67ac2fd974f4a21fbffb967032b"
+                "reference": "fd9e49ae00e5ad92c05586cebb6d38b233b83be0"
             },
             "require": {
                 "dvikan/simple-parts": "dev-master",
@@ -87,7 +87,8 @@
                 "ext-simplexml": "*"
             },
             "bin": [
-                "generate"
+                "generate",
+                "router"
             ],
             "type": "library",
             "autoload": {
