@@ -77,7 +77,7 @@
             "dist": {
                 "type": "path",
                 "url": "../simple-static-site-generator",
-                "reference": "fd9e49ae00e5ad92c05586cebb6d38b233b83be0"
+                "reference": "dca03a2500f18f09fe33cde224b107d13f8094c9"
             },
             "require": {
                 "dvikan/simple-parts": "dev-master",
