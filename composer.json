@@ -4,6 +4,10 @@
     {
         "type": "path",
         "url": "../simple-static-site-generator"
+    },
+    {
+        "type": "path",
+        "url": "../simple-parts"
     }
     ],
     "require": {

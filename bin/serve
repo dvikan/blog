@@ -2,4 +2,4 @@
 #
 # Serve the generated content via http
 
-php -S localhost:8080 -t out ./vendor/bin/router
+php -S localhost:8080 -t public ./vendor/bin/router

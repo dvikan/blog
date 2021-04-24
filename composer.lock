@@ -4,21 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "41f2d802e23a0b479c47db88781a0e49",
+    "content-hash": "f387ececba391697e0bad01c45c7457e",
     "packages": [
         {
             "name": "dvikan/simple-parts",
             "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/dvikan/simple-parts.git",
-                "reference": "6e32fa759e1bd735de41b4a53c3068ad3b4f6b3f"
-            },
             "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/dvikan/simple-parts/zipball/6e32fa759e1bd735de41b4a53c3068ad3b4f6b3f",
-                "reference": "6e32fa759e1bd735de41b4a53c3068ad3b4f6b3f",
-                "shasum": ""
+                "type": "path",
+                "url": "../simple-parts",
+                "reference": "51d61cbd9a51a198f4b0f4cb99a42efb2ad53797"
             },
             "require": {
                 "ext-curl": "*",
@@ -29,7 +23,6 @@
                 "ext-pdo": "*",
                 "ext-simplexml": "*"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -39,6 +32,7 @@
                         "src/common",
                         "src/console",
                         "src/container",
+                        "src/error-handler",
                         "src/file",
                         "src/http",
                         "src/json",
@@ -46,30 +40,25 @@
                         "src/migrator",
                         "src/rss",
                         "src/session",
-                        "src/shell",
-                        "src/template",
-                        "src/twitch",
-                        "src/yahoo-finance"
+                        "src/shell"
                     ]
                 },
                 "files": [
-                    "src/common/constants.php",
-                    "src/http/functions.php",
-                    "src/session/functions.php",
-                    "src/template/functions.php",
-                    "src/template/functions.php"
+                    "src/template/template.php"
                 ]
             },
-            "notification-url": "https://packagist.org/downloads/",
+            "scripts": {
+                "test": [
+                    "phpunit"
+                ]
+            },
             "license": [
                 "MIT"
             ],
             "description": "Simple components for building applications",
-            "support": {
-                "issues": "https://github.com/dvikan/simple-parts/issues",
-                "source": "https://github.com/dvikan/simple-parts/tree/master"
-            },
-            "time": "2020-11-22T21:47:09+00:00"
+            "transport-options": {
+                "relative": true
+            }
         },
         {
             "name": "dvikan/simple-static-site-generator",
@@ -77,7 +66,7 @@
             "dist": {
                 "type": "path",
                 "url": "../simple-static-site-generator",
-                "reference": "dca03a2500f18f09fe33cde224b107d13f8094c9"
+                "reference": "74c260cf684be9fd7601879a36c3efd298b2d942"
             },
             "require": {
                 "dvikan/simple-parts": "dev-master",
@@ -87,13 +76,13 @@
                 "ext-simplexml": "*"
             },
             "bin": [
-                "generate",
-                "router"
+                "bin/generate",
+                "bin/router"
             ],
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "dvikan\\SimpleStaticSiteGenerator\\": "./"
+                    "dvikan\\SimpleStaticSiteGenerator\\": "src/"
                 }
             },
             "license": [

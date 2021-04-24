@@ -2,4 +2,4 @@
 #
 # Transfer the generated site to prod
 
-rsync -avz -e "ssh" out/ blog@blog:public/_site/
+rsync -avz -e "ssh" public/ blog@e:public/_site/

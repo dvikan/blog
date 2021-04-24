@@ -1,0 +1,6 @@
+#!/bin/sh
+#
+# Generate site
+
+./vendor/bin/generate
+cp -r blogimages public/
