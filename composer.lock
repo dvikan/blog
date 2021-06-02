@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../simple-parts",
-                "reference": "51d61cbd9a51a198f4b0f4cb99a42efb2ad53797"
+                "reference": "01c4182226185b5e103a6838064988548ebd05c5"
             },
             "require": {
                 "ext-curl": "*",
@@ -38,13 +38,15 @@
                         "src/json",
                         "src/logger",
                         "src/migrator",
+                        "src/renderer/",
+                        "src/router/",
                         "src/rss",
                         "src/session",
                         "src/shell"
                     ]
                 },
                 "files": [
-                    "src/template/template.php"
+                    "src/renderer/functions.php"
                 ]
             },
             "scripts": {

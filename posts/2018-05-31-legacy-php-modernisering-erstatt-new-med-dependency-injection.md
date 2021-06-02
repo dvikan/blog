@@ -1,4 +1,4 @@
-{"title": "Legacy PHP modernisering - Erstatt new med Dependency Injection (del 4)"}
+{"title": "Legacy PHP modernisering - Erstatt new med Dependency Injection #4"}
 
 new operatoren brukes til å instansiere objekter. Dependency Injection (DI) betyr at man stapper inn avhengigheter i konstruktør, klasse eller felt.
 

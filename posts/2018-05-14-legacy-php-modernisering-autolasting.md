@@ -1,4 +1,4 @@
-{"title": "Legacy PHP modernisering - Autolasting (del 1)"}
+{"title": "Legacy PHP modernisering - Autolasting #1"}
 
 En simpel definisjon på legacy applikasjon er en applikasjon du
 har arvet. Den ble skrevet før du kom dit.

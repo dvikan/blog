@@ -5,6 +5,6 @@ return [
     'pages'         => './pages',
     'public'        => './public',
     'title'         => 'my blog',
-    'description'   => '',
+    'description'   => 'my blog indeed',
     'baseUrl'       => 'https://dvikan.no',
 ];

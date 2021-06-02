@@ -1,4 +1,4 @@
-{"title": "Legacy PHP modernisering - Erstatt global med Dependency Injection (del 3)"}
+{"title": "Legacy PHP modernisering - Erstatt global med Dependency Injection #3"}
 
 Det er veldig sannsynlig at en legacy-applikasjon har mange `global` variabler:
 

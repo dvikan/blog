@@ -1,4 +1,4 @@
-{"title": "Legacy PHP modernisering - Konsolidering (del 2)"}
+{"title": "Legacy PHP modernisering - Konsolidering #2"}
 
 Nå som vi har en klasselaster kan vi fjerne alle include kall som kun laster
 klasser og funksjoner inn i minnet.
