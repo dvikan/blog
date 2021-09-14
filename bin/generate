@@ -1,5 +1,0 @@
-#!/bin/sh
-#
-# Generate site
-
-cp -r blogimages public/

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -euf
+
+tgen && cp -r blogimages/ _site/ && rsync -avz -e "ssh" _site/ blog@e:public/_site/

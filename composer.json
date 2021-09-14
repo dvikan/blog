@@ -1,16 +1,2 @@
 {
-    "minimum-stability": "dev",
-    "repositories": [
-    {
-        "type": "path",
-        "url": "../simple-static-site-generator"
-    },
-    {
-        "type": "path",
-        "url": "../simple-parts"
-    }
-    ],
-    "require": {
-        "dvikan/simple-static-site-generator": "dev-main"
-    }
 }
