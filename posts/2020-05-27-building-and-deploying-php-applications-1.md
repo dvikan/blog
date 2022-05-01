@@ -40,7 +40,7 @@ Create a regular account `ubuntu`:
 
 Install nginx and php-fpm (PHP 7.2):
 
-    # apt update && apt install nginx php-fpm
+    # apt install nginx php-fpm
 
 Configure `/etc/nginx/sites-available/default`:
 

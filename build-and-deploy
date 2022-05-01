@@ -2,4 +2,7 @@
 
 set -euf
 
-tgen && cp -r blogimages/ _site/ && rsync -avz -e "ssh" _site/ blog@e:public/_site/
+./vendor/bin/tgen config.prod.php
+cp -r blogimages/ _site/
+chmod -R g+rx _site
+rsync -avz -e "ssh" _site/ blog@e:public/_site/

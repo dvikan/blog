@@ -4,12 +4,109 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "25f7c96f1415a4ab12c7b1efb49cb405",
-    "packages": [],
+    "content-hash": "256d0b430ed5119fab28ed8dd2fd4096",
+    "packages": [
+        {
+            "name": "erusev/parsedown",
+            "version": "1.7.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/erusev/parsedown.git",
+                "reference": "cb17b6477dfff935958ba01325f2e8a2bfa6dab3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/erusev/parsedown/zipball/cb17b6477dfff935958ba01325f2e8a2bfa6dab3",
+                "reference": "cb17b6477dfff935958ba01325f2e8a2bfa6dab3",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8.35"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Parsedown": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emanuil Rusev",
+                    "email": "hello@erusev.com",
+                    "homepage": "http://erusev.com"
+                }
+            ],
+            "description": "Parser for Markdown.",
+            "homepage": "http://parsedown.org",
+            "keywords": [
+                "markdown",
+                "parser"
+            ],
+            "support": {
+                "issues": "https://github.com/erusev/parsedown/issues",
+                "source": "https://github.com/erusev/parsedown/tree/1.7.x"
+            },
+            "time": "2019-12-30T22:54:17+00:00"
+        },
+        {
+            "name": "thirdplace/tgen",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "/home/d/me/sources/tgen",
+                "reference": "82a2ea770a3ee7cb5a516e154d23d774c452d61b"
+            },
+            "require": {
+                "erusev/parsedown": "^1.7",
+                "ext-json": "*",
+                "ext-mbstring": "*",
+                "php": ">=7.4"
+            },
+            "bin": [
+                "./tgen"
+            ],
+            "type": "library",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Dag",
+                    "email": "me@dvikan.no",
+                    "homepage": "https://dvikan.no"
+                }
+            ],
+            "description": "thirdplace static site generator",
+            "homepage": "https://thirdplace.no",
+            "keywords": [
+                "ssg"
+            ],
+            "support": {
+                "docs": "https://thirdplace.no/tgen",
+                "issues": "https://todo.sr.ht/~thirdplace/issues",
+                "email": "support@thirdplace.no",
+                "irc": "irc://irc.libera.chat/thirdplace",
+                "source": "https://git.sr.ht/~thirdplace/tgen"
+            },
+            "transport-options": {
+                "relative": false
+            }
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "dev",
-    "stability-flags": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "thirdplace/tgen": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

@@ -1,6 +1,6 @@
 {"title": "Profitt er positivt for en markedsøkonomi"}
 
-![Skyline](/blogimages/skyline.jpg)
+![Skyline](./blogimages/skyline.jpg)
 
 **Pengeprofitt** er positivt for en **markedsøkonomi**. Fordi det motsatte
 av pengeprofitt er **pengetap**. De som er for pengetap mangler
