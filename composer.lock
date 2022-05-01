@@ -59,10 +59,10 @@
         {
             "name": "thirdplace/tgen",
             "version": "dev-master",
-            "dist": {
-                "type": "path",
-                "url": "/home/d/me/sources/tgen",
-                "reference": "82a2ea770a3ee7cb5a516e154d23d774c452d61b"
+            "source": {
+                "type": "git",
+                "url": "https://git.sr.ht/~thirdplace/tgen",
+                "reference": "2e54440cd03c780cea6267245751ae94cd2f96c3"
             },
             "require": {
                 "erusev/parsedown": "^1.7",
@@ -70,10 +70,12 @@
                 "ext-mbstring": "*",
                 "php": ">=7.4"
             },
+            "default-branch": true,
             "bin": [
                 "./tgen"
             ],
             "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-3.0-or-later"
             ],
@@ -91,14 +93,12 @@
             ],
             "support": {
                 "docs": "https://thirdplace.no/tgen",
-                "issues": "https://todo.sr.ht/~thirdplace/issues",
                 "email": "support@thirdplace.no",
                 "irc": "irc://irc.libera.chat/thirdplace",
+                "issues": "https://todo.sr.ht/~thirdplace/issues",
                 "source": "https://git.sr.ht/~thirdplace/tgen"
             },
-            "transport-options": {
-                "relative": false
-            }
+            "time": "2022-05-01T12:46:56+00:00"
         }
     ],
     "packages-dev": [],
