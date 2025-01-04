@@ -62,7 +62,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.sr.ht/~thirdplace/tgen",
-                "reference": "2e54440cd03c780cea6267245751ae94cd2f96c3"
+                "reference": "7480561270cbacaa3e7c8380f41add2d775a351b"
             },
             "require": {
                 "erusev/parsedown": "^1.7",
@@ -98,7 +98,7 @@
                 "issues": "https://todo.sr.ht/~thirdplace/issues",
                 "source": "https://git.sr.ht/~thirdplace/tgen"
             },
-            "time": "2022-05-01T12:46:56+00:00"
+            "time": "2022-05-03T18:33:39+00:00"
         }
     ],
     "packages-dev": [],
